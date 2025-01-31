@@ -9,7 +9,7 @@ Mistral 7B Instruct v0.3 model was selected from the selection of open source mo
 - Implemented an Open source LLM model from HuggingFace for query answering (text generation) use case.
 - Used Mistral 7B Instruct v0.3 model from MistralAI by using it's API key from HuggingFace.
 - Showcased the use of LangChain and Prompt Template to chain the LLM model and the prompt to get relevant generated text results as shown in the output cells.
-- Generated text results showcased in the project, highlighting the ease with which OPen-source LLM models can be implemented.
+- Generated text results showcased in the project, highlighting the ease with which Open-source LLM models can be implemented.
 
 ## About Me:
 I am Shreyas Putty, a M.Sc. Graduate in Data Science and Machine Learning and I am passionate about finding creative solutions through my knowledge and skills. I have 3+ years of experience in Python and am open to any new opportunities.
