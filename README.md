@@ -6,7 +6,7 @@ The purpose of this python notebook is to showcase the ease with which Open-sour
 Mistral 7B Instruct v0.3 model was selected from the selection of open source models available at HuggingFace for a query answering task.
 
 ## Summary and Results:
-- Implemented an Open source LLM model from HuggingFace for query answering (text generation) use case.
+- Implemented an Open-source LLM model from HuggingFace for query answering (text generation) use case.
 - Used Mistral 7B Instruct v0.3 model from MistralAI by using it's API key from HuggingFace.
 - Showcased the use of LangChain and Prompt Template to chain the LLM model and the prompt to get relevant generated text results as shown in the output cells.
 - Generated text results showcased in the project, highlighting the ease with which Open-source LLM models can be implemented.
